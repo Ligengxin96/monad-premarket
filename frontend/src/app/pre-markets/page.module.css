@@ -1,0 +1,15 @@
+.trHoverStyle {
+  background: transparent;
+}
+
+.trHoverStyle:hover td {
+  background: rgb(32, 32, 32);
+}
+
+.trHoverStyle:hover td:first-child {
+  border-radius: 12px 0 0 12px;
+}
+
+.trHoverStyle:hover td:last-child {
+  border-radius: 0 12px 12px 0;
+}

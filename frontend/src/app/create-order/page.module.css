@@ -1,0 +1,15 @@
+.selectedBuyButton {
+  border-color: rgba(255,255,255,0.3)
+  /* border-color: rgba(23, 201, 100, 0.8); */
+}
+
+.selectedSellButton {
+  border-color: rgba(255,255,255,0.3)
+  /* border-color: rgba(243, 18, 96, 0.8); */
+}
+
+.spinnerClass {
+  left: calc(100% + 10px);
+  top: 50%;
+  transform: translateY(-50%);
+}

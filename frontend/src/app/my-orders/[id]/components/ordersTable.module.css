@@ -1,0 +1,5 @@
+.spinnerClass {
+  left: calc(50% + 40px);
+  top: 50%;
+  transform: translateY(-50%);
+}

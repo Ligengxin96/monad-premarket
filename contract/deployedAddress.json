@@ -1,0 +1,22 @@
+{
+  "10143": {
+    "Network": "monad_testnet",
+    "USDC": "0xda7311c0D07f9c4Ed4E5b64f091665847E30d54c",
+    "WETH": "0x5E218196b521d073C24051c1d9bdd860B8049721",
+    "Governance": "0x07dEbc8B45D48eBe00DdCbA4d99647d741F0Bb5b",
+    "SimpleFactory": "0x04971300E9625986945dC61d13342F2fEFE0cc9e",
+    "Helper": "0x2b4dBc3023280F3D6af4355EDAA538661B29AE36",
+    "market0": "0x4683d452cd15511c5C229FB46F8a50EF3EdAf192",
+    "updateTime": "2025-06-08T09:17:29.164Z"
+  },
+  "31337": {
+    "Network": "hardhat",
+    "USDC": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    "WETH": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+    "Governance": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
+    "SimpleFactory": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+    "Helper": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+    "market0": "0x2D1dc69EDE836C75caF4956E6b7b58dc1B4238B9",
+    "updateTime": "2025-06-08T09:13:54.840Z"
+  }
+}
